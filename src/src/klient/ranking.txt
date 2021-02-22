@@ -1,0 +1,11 @@
+#Mon Jun 15 16:24:31 CEST 2020
+nick2=nick
+nick1=nick
+score2=2248
+score3=1142
+score4=1108
+score5=1101
+score1=2356
+nick5=zosia
+nick4=adam
+nick3=wojtek

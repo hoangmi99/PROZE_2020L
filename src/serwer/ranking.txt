@@ -1,0 +1,11 @@
+#Mon Jun 15 17:08:43 CEST 2020
+nick2=nick
+nick1=nick
+score2=1050
+score3=1038
+score4=1011
+score5=997
+score1=1101
+nick5=nick
+nick4=elo
+nick3=nick

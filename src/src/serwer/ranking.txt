@@ -1,0 +1,11 @@
+#Mon Jun 15 17:10:07 CEST 2020
+nick2=asia
+nick1=basia
+score2=1142
+score3=1078
+score4=975
+score5=109
+score1=2310
+nick5=hania
+nick4=mateusz
+nick3=jas

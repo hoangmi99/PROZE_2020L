@@ -1,0 +1,11 @@
+#Fri May 29 22:36:14 CEST 2020
+nick2=elo
+nick1=w
+score2=1130
+score3=1108
+score4=1101
+score5=1082
+score1=1142
+nick5=nick
+nick4=g
+nick3=adam

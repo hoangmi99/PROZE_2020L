@@ -1,0 +1,31 @@
+Zasady gry
+
+Glownym celem rozgrywki jest wyladowanie statkiem kosmicznym na wyznaczonym ladowisku
+z pradkoscia mieszczaca sie w ustalonym zakresie Vx<=30 oraz Vy<=40, starajac sie
+zdobyc przy tym jak najwieksza liczbe punktow. Punkty mozesz zdobywac zbierajac dodatkowe
+bonusy w formie gwiazdek, konczac poziom w jak najkrotszym czasie, tracac jak najmniej
+paliwa oraz tracac jak najmniej statkow. Maksymalnie masz do dyspozycji 5 statkow oraz
+pojemnosc paliwa 500 na kazdym poziomie.
+
+Sterowanie statkiem jest utrudnione przez uksztaltowanie terenu,
+oddzialywanie grawitacji, ograniczony zbiornik paliwa oraz przeszkody w postaci ufo.
+
+Punktacja
+Kazdy poziom oceniany jest wedlug ponizszego rownania
+
+Wynik = (t-tu)*lvl+s*bs+p+g*bg
+Gdzie:
+    	t - maksymalny czas przeznaczony na przejscie gry (200s)
+    	tu - czas, ktory uplynal
+    	lvl - aktualny poziom gry
+    	s - ilosc pozostalych statkow
+    	bs - bonus za statek
+    	p - ilosc pozostalego paliwa
+    	g - ilosc zebranych gwiazdek na danym poziomie (0 albo 1)
+    	bg - bonus za zebrana gwiazdke
+
+Sterowanie
+
+strzalka w lewo - ruch w lewo
+strzalka w prawo - ruch w prawo
+stzrałlka w gore - ruch w gore
