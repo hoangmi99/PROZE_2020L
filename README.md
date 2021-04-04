@@ -1,6 +1,5 @@
 # PROZE_2020L
 project for Event-Driven Programming subject during 4th semester of my undergraduate studies. (2020)  
-The project was completed as a colalaboartion with my project colleague.
 
 ### LUNAR LANDER
 
